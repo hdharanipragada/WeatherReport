@@ -1,0 +1,4 @@
+export const RECIEVE_CITIES='RECIEVE_CITIES';
+export const SET_CITY_SELECTED='SET_CITY_SELECTED';
+export const REMOVE_CITY='REMOVE_CITY';
+export const ADD_CITY='ADD_CITY';
